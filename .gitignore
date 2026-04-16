@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+Copper_Churn_v3.ipynb
+Copper_Churn_v3 2 1.ipynb
+.ipynb_checkpoints/
